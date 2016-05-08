@@ -1,6 +1,0 @@
-[submodule "src/project-manager"]
-	path = src/project-manager
-	url = git@github.com:uu-cubitt/project-manager.git
-[submodule "src/command-handler"]
-	path = src/command-handler
-	url = git@github.com:uu-cubitt/command-handler.git
